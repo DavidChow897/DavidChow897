@@ -18,7 +18,6 @@ Aku mahasiswa IT yang lagi fokus belajar programming, data, dan pengembangan sta
 ## 🌐 Social Media
 
 * Instagram: https://www.instagram.com/callonlydav?igsh=dDh1cTMxcHgya3I%3D&utm_source=qr
-* LinkedIn: https://linkedin.com/in/usernamekamu
 
 ## ⚡ Fun Facts About me
 
