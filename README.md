@@ -9,10 +9,6 @@ mahasiswa IT yang lagi fokus belajar programming, data, dan pengembangan startup
 * MySQL 🗄️
 * Git & GitHub 🔧
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DavidChow897\&show_icons=true\&theme=tokyonight)
-
 ## 🌐 Social Media
 
 * Instagram: https://www.instagram.com/callonlydav?igsh=dDh1cTMxcHgya3I%3D&utm_source=qr
