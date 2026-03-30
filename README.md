@@ -20,12 +20,12 @@ Aku mahasiswa IT yang lagi fokus belajar programming, data, dan pengembangan sta
 * Instagram: https://www.instagram.com/callonlydav?igsh=dDh1cTMxcHgya3I%3D&utm_source=qr
 * LinkedIn: https://linkedin.com/in/usernamekamu
 
-## ⚡ Fun Facts
+## ⚡ Fun Facts About me
 
 * 
 * Lagi nyoba bangun bisnis sendiri
 * Suka eksplor teknologi baru
-* Overthinking tapi jadi ide
+* Overthinking yang digunakan dengan baik
 * Sedang membangun personal branding 
 
 ## 🎯 Quote
