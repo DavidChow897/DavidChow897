@@ -1,8 +1,6 @@
 # 👋 Halo, gue David!
 
-## 🚀 Introduction
-
-Aku mahasiswa IT yang lagi fokus belajar programming, data, dan pengembangan startup digital.
+mahasiswa IT yang lagi fokus belajar programming, data, dan pengembangan startup digital.
 
 ## 💻 Skills & Tech Stack
 
@@ -21,7 +19,7 @@ Aku mahasiswa IT yang lagi fokus belajar programming, data, dan pengembangan sta
 
 ## ⚡ Fun Facts About me
 
-* 
+
 * Lagi nyoba bangun bisnis sendiri
 * Suka eksplor teknologi baru
 * Overthinking yang digunakan dengan baik
