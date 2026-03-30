@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Halo, gue David!
 
-<!--
-**DavidChow897/DavidChow897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Introduction
 
-Here are some ideas to get you started:
+Aku mahasiswa IT yang lagi fokus belajar programming, data, dan pengembangan startup digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Tech Stack
+
+* Python 🐍
+* HTML, CSS, JavaScript 🌐
+* MySQL 🗄️
+* Git & GitHub 🔧
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DavidChow897\&show_icons=true\&theme=tokyonight)
+
+## 🌐 Social Media
+
+* Instagram: https://www.instagram.com/callonlydav?igsh=dDh1cTMxcHgya3I%3D&utm_source=qr
+* LinkedIn: https://linkedin.com/in/usernamekamu
+
+## ⚡ Fun Facts
+
+* 
+* Lagi nyoba bangun bisnis sendiri
+* Suka eksplor teknologi baru
+* Overthinking tapi jadi ide
+* Sedang membangun personal branding 
+
+## 🎯 Quote
+
+> "Keep building, even when no one is watching."
